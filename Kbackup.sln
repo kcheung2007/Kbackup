@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kbackup", "Kbackup.csproj", "{49735E3E-75FC-4F84-9680-3A0EC9D1368C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49735E3E-75FC-4F84-9680-3A0EC9D1368C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49735E3E-75FC-4F84-9680-3A0EC9D1368C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49735E3E-75FC-4F84-9680-3A0EC9D1368C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49735E3E-75FC-4F84-9680-3A0EC9D1368C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06618A19-A976-4598-A23E-58F2D5D81BA8}
+	EndGlobalSection
+EndGlobal
